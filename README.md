@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José David Ureña Torres</h1>
 <h3 align="center">A passionate web developer and student at Universidad de Costa Rica</h3>
 
-- 🌱 I’m currently learning **.Net and C#**
+- 🌱 I’m currently learning **Python and Django**
 
 - 💬 Ask me about **Angular and JavaScript**
 
