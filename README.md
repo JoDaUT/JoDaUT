@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José David Ureña Torres</h1>
-<h3 align="center">A passionate web developer and student at Universidad de Costa Rica</h3>
+<h3 align="center">A passionate software developer and student at Universidad de Costa Rica</h3>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 Full Stack Developer with experience in React.js, Angular, Node.js, and Django. Interested in continuous learning and professional growing projects. Senior student at Universidad de Costa Rica.
 
 - 💬 Ask me about **Angular and JavaScript**
 
