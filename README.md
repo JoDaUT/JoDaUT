@@ -3,7 +3,7 @@
 
 - 🌱 Full Stack Developer with experience in React.js, Angular, Node.js, and Django. Interested in continuous learning and professional growing projects. Senior student at Universidad de Costa Rica.
 
-- 💬 Ask me about **Angular and JavaScript**
+- 💬 Ask me about **React, Angular, Node.js, JavaScript and Django**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jose-david-ure%C3%B1a-torres/**
 
