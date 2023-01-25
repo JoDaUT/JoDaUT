@@ -4,7 +4,7 @@
 - 🌱 With experience in web technologies like Node.js, Django, and React.js. Interested in continuous learning and new professional challenges.
 
 
-- 💬 Ask me about **React, Angular, Node.js, JavaScript in general**
+- 💬 Ask me about **JavaScript and Python in general**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jose-david-ure%C3%B1a-torres/**
 
