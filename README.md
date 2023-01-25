@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José David Ureña Torres</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 With experience in Node.js and React.js. Interested in continuous learning and new professional challenges.
+- 🌱 With experience in web technologies like Node.js, Django, and React.js. Interested in continuous learning and new professional challenges.
 
 
 - 💬 Ask me about **React, Angular, Node.js, JavaScript in general**
